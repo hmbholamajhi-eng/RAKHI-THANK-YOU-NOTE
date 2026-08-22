@@ -64,10 +64,7 @@ Open `http://localhost:8000/`. A static server is recommended for audio behavior
 8. Wait for deployment.
 
 The URL will look like:
-
-```text
-https://USERNAME.github.io/rakhi-thank-you/
-```
+(https://hmbholamajhi-eng.github.io/RAKHI-THANK-YOU-NOTE/)
 
 All asset paths are relative, so repository subpaths are supported.
 
